@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import Slider from "react-slick";
 import {BsStarFill} from 'react-icons/bs'
 
 export default function Product(props) {

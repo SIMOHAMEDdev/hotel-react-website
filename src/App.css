@@ -4,7 +4,6 @@ body {
 }
 .header {
   padding-top: 1.4pc;
-  /* background-color: aqua; */
   background-image: url('./images/89.jpg');
   background-repeat: no-repeat;
   background-size: cover;
